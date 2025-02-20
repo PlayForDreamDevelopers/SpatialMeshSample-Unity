@@ -1,5 +1,8 @@
 # Mesh 示例
 
+[![us](https://img.shields.io/badge/lang-us-red.svg)](https://github.com/PlayForDreamDevelopers/MeshSample-Unity/blob/main/README.md)
+
+
 包含以下关于 Mesh 功能的示例：
 
 1. Mesh Minimal Sample：以线框方式实时绘制 Mesh
