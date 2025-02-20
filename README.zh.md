@@ -5,7 +5,7 @@
 
 包含以下关于 Mesh 功能的示例：
 
-1. Mesh Minimal Sample：以线框方式实时绘制 Mesh
+1. [Mesh Minimal Sample](https://github.com/PlayForDreamDevelopers/MeshSample-Unity/tree/main/Assets/MeshMinimalSample)：以线框方式实时绘制 Mesh
 
 注意事项：
 
