@@ -51,11 +51,13 @@ Contains examples of some Mesh features
 
 ### Samples
 
+
 Include the following examples of Mesh functionality:
 <!-- Link to first sample project -->
-1. [Mesh Minimal Sample](https://github.com/PlayForDreamDevelopers/MeshSample-Unity/tree/main/Assets/MeshMinimalSample)：Draw the Mesh in real time in wireframe mode
+### examples of Mesh functionality
+[Mesh Minimal Sample](https://github.com/PlayForDreamDevelopers/MeshSample-Unity/tree/main/Assets/MeshMinimalSample)：Draw the Mesh in real time in wireframe mode
 
-    ![2025 03 04_142114528](https://github.com/user-attachments/assets/26b63e4f-bb91-4e28-8406-f665c7bad031)
+![2025 03 04_142114528](https://github.com/user-attachments/assets/26b63e4f-bb91-4e28-8406-f665c7bad031)
 <!-- Link to second sample project -->
 
 ## Requirements

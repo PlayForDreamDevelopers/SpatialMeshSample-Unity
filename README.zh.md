@@ -50,10 +50,10 @@
 
 包含以下关于 Mesh 功能的示例：
 <!-- 链接到第一个示例项目 -->
+### 线框方式实时绘制
+[Mesh Minimal Sample](https://github.com/PlayForDreamDevelopers/MeshSample-Unity/tree/main/Assets/MeshMinimalSample)：以线框方式实时绘制 Mesh
 
-1. [Mesh Minimal Sample](https://github.com/PlayForDreamDevelopers/MeshSample-Unity/tree/main/Assets/MeshMinimalSample)：以线框方式实时绘制 Mesh
-
-    ![2025 03 04_142114528](https://github.com/user-attachments/assets/26b63e4f-bb91-4e28-8406-f665c7bad031)
+![2025 03 04_142114528](https://github.com/user-attachments/assets/26b63e4f-bb91-4e28-8406-f665c7bad031)
 <!-- 链接到第二个示例项目 -->
 
 ## 要求
