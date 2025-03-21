@@ -1,20 +1,73 @@
-# Mesh Sample
+[![zh](https://img.shields.io/badge/lang-zh-blue.svg)](./README.zh.md)
 
-[![zh](https://img.shields.io/badge/lang-zh-blue.svg)](https://github.com/PlayForDreamDevelopers/MeshSample-Unity/blob/main/README.zh.md)
+<!--
+READ ME FIRST !!!!!!
+Replace the following placeholders with the actual values:
+    - {{PROJECT_REPO_URL}}: URL of the project repository
+    - {{Project Name}}: Name of the project
+    - {{DocumentationURL}}: URL of the project documentation, Use github pages with docfx if possible
+    - {{BriefDescription}}: Brief description about the project
+    - {SampleURL}: URL of the sample project, for package projects, it should be sample repository URL. If a package projects has multiple samples, then link to `Samples` header of the `About The Project` section.
+    - {BugIssueURL}: URL of the bug reporting issue template
+      - i.e.  https://github.com/PlayForDreamDevelopers/unity-template/issues/new?template=bug_report.yml
+    - {FeatureIssueURL}: URL of the feature request issue template
+      - i.e. https://github.com/PlayForDreamDevelopers/unity-template/issues/new?template=feature_request.yml
+    - {DocumentationIssueURL}: URL of the documentation issue template
+      - i.e. https://github.com/PlayForDreamDevelopers/unity-template/issues/new?template=documentation_update.yml
+-->
 
-Includes the following examples of Mesh functionality:
+<br />
+<div align="center">
+    <a href="">
+        <img src="https://www.pfdm.cn/en/static/img/logo.2b1b07e.png" alt="Logo" width="20%">
+    </a>
+    <h1 align="center"> Mesh Sample </h1>
+    <p align="center">
+        Contains examples of some Mesh features
+        <br />
+        <a href="https://github.com/PlayForDreamDevelopers/SpatialMeshSample-Unity/blob/main/README.md"><strong>View Documentation »</strong></a>
+        <br />
+        <br />
+        <a href="https://github.com/PlayForDreamDevelopers/SpatialMeshSample-Unity">View Samples</a>
+        &middot;
+        <a href="https://github.com/PlayForDreamDevelopers/SpatialMeshSample-Unity/issues/new?labels=bug">Report Bug</a>
+        &middot;
+        <a href="https://github.com/PlayForDreamDevelopers/SpatialMeshSample-Unity/issues/new?labels=enhancemen">Request Feature</a>
+    </p>
 
-1. [Mesh Minimal Sample](https://github.com/PlayForDreamDevelopers/MeshSample-Unity/tree/main/Assets/MeshMinimalSample):
-   Real-time wireframe rendering of Mesh
+</div>
 
-    ![2025 03 04_142114528](https://github.com/user-attachments/assets/26b63e4f-bb91-4e28-8406-f665c7bad031)
+<!-- Add callouts here if required-->
+> [!tip]
+> 
+> Mesh Minimal Sample Depend on Geometry Shader, you need to change the rendering mode to Multi Passes.
+>
+> Make sure you are using Floor for your Tracking Mode.  If you are using Device Tracking Mode, you need to manually add the same Y Offset to the generated Mesh as you do for Device Tracking Mode.
 
-## Notes
 
-1. Mesh Minimal Sample relies on Geometry Shader, so the rendering mode needs to be set to Multi Passes.
+## About The Project
 
-## FAQ
+Contains examples of some Mesh features
 
-### Why does the Mesh I see have an offset from the real environment?
+### Samples
 
-Make sure you are using the Floor Tracking Mode. If you are using the Device Tracking Mode, you need to manually add the same Y Offset as the Device Tracking Mode to the generated Mesh.
+
+Include the following examples of Mesh functionality:
+<!-- Link to first sample project -->
+### examples of Mesh functionality
+[Mesh Minimal Sample](https://github.com/PlayForDreamDevelopers/MeshSample-Unity/tree/main/Assets/MeshMinimalSample)：Draw the Mesh in real time in wireframe mode
+
+![2025 03 04_142114528](https://github.com/user-attachments/assets/26b63e4f-bb91-4e28-8406-f665c7bad031)
+<!-- Link to second sample project -->
+
+## Requirements
+
+<!-- Requirements about the project:
+    Unity version, Unity packages, etc.
+    If the Unity package has a mirror repository, link to that repository.
+    -->
+
+- Unity 2022.3.52f1 or an updated version
+- Unity Package:
+  - [YVR Core](https://github.com/PlayForDreamDevelopers/com.yvr.core-mirror)
+  - [YVR Utilities](https://github.com/PlayForDreamDevelopers/com.yvr.Utilities-mirror)
