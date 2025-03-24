@@ -30,9 +30,12 @@ Replace the following placeholders with the actual values:
         <br />
         <a href="https://github.com/PlayForDreamDevelopers/SpatialMeshSample-Unity">View Samples</a>
         &middot;
-        <a href="https://github.com/PlayForDreamDevelopers/SpatialMeshSample-Unity/issues/new?labels=bug">Report Bug</a>
+        <a href="https://github.com/PlayForDreamDevelopers/SpatialMeshSample-Unity/issues/new?template=bug_report.yml">Report Bug</a>
         &middot;
-        <a href="https://github.com/PlayForDreamDevelopers/SpatialMeshSample-Unity/issues/new?labels=enhancemen">Request Feature</a>
+        <a href="https://github.com/PlayForDreamDevelopers/SpatialMeshSample-Unity/issues/new?template=feature_request.yml">Request Feature</a>
+        &middot;
+        <a href="https://github.com/PlayForDreamDevelopers/SpatialMeshSample-Unity/issues/new?template=documentation_update.yml">Improve Documentation</a>
+
     </p>
 
 </div>
