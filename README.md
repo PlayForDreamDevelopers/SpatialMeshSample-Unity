@@ -35,7 +35,6 @@ Replace the following placeholders with the actual values:
         <a href="https://github.com/PlayForDreamDevelopers/SpatialMeshSample-Unity/issues/new?template=feature_request.yml">Request Feature</a>
         &middot;
         <a href="https://github.com/PlayForDreamDevelopers/SpatialMeshSample-Unity/issues/new?template=documentation_update.yml">Improve Documentation</a>
-
     </p>
 
 </div>
