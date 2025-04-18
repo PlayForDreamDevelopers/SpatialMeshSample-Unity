@@ -263,14 +263,14 @@
       "url": "https://packages.unity.com"
     },
     "com.yvr.core": {
-      "version": "https://github.com/PlayForDreamDevelopers/com.yvr.core-mirror.git?path=/com.yvr.core#version_1.26.2",
+      "version": "https://github.com/PlayForDreamDevelopers/com.yvr.core-mirror.git?path=/com.yvr.core#version_1.26.3",
       "depth": 0,
       "source": "git",
       "dependencies": {
         "com.yvr.utilities": "0.15.10",
         "com.unity.xr.management": "3.0.4"
       },
-      "hash": "31c7dd622db02c0bb57f68304009f33bd58aa2bc"
+      "hash": "6354dc4faea4f4da59756a4d376f098334c3ae15"
     },
     "com.yvr.utilities": {
       "version": "https://github.com/PlayForDreamDevelopers/com.yvr.utilities-mirror.git?path=/com.yvr.utilities#version_0.15.12",
